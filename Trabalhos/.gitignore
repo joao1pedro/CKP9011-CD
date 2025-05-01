@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# datasets
+data/
+
+# pdf das listas
+CKP9011_*.pdf
