@@ -179,3 +179,7 @@ data/
 
 # pdf das listas
 CKP9011_*.pdf
+
+# zip files
+*.zip
+*.tar.gz
